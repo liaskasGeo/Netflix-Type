@@ -1,10 +1,14 @@
 # Netflix-Type
 Netflix-Type-React
+
 🎬 Netflix-like Streaming Application
+
 Overview
 A Netflix-style streaming application built using modern web technologies like React, Node.js, MongoDB, and SQL. 
 This project simulates the core functionalities of a streaming platform, including browsing movies and series, 
 managing user profiles, and dynamic data fetching from databases.
+
+![react project](https://github.com/user-attachments/assets/b3d4a593-c1f5-4ae6-96f2-e5c3756666dc)
 
 Key Features
 
@@ -26,4 +30,3 @@ Database: MongoDB (for user data and content), SQL (for structured data storage)
 Authentication: JWT-based authentication for secure login and sessions
 API Integration: RESTful API for content retrieval and user management
 
-![react project](https://github.com/user-attachments/assets/b3d4a593-c1f5-4ae6-96f2-e5c3756666dc)

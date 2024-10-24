@@ -7,12 +7,18 @@ This project simulates the core functionalities of a streaming platform, includi
 managing user profiles, and dynamic data fetching from databases.
 
 Key Features
+
 User Authentication: Secure user sign-up and login using JWT (JSON Web Tokens).
+
 Browse Movies and Series: Users can browse and search through a list of movies and TV shows fetched from a MongoDB database.
+
 Watchlist: Add movies or series to a personalized watchlist for later viewing.
+
 User Profiles: Each user can manage a custom profile with personalized recommendations based on their watch history.
 Responsive Design: Optimized for mobile and desktop devices.
+
 Search and Filtering: Advanced search functionality with filtering by genre, release date, and rating.
+
 Tech Stack
 Frontend: React.js, JavaScript, CSS, HTML
 Backend: Node.js, Express.js

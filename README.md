@@ -25,8 +25,12 @@ Search and Filtering: Advanced search functionality with filtering by genre, rel
 
 Tech Stack
 Frontend: React.js, JavaScript, CSS, HTML
+
 Backend: Node.js, Express.js
+
 Database: MongoDB (for user data and content), SQL (for structured data storage)
+
 Authentication: JWT-based authentication for secure login and sessions
+
 API Integration: RESTful API for content retrieval and user management
 
